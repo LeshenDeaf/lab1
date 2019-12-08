@@ -1,0 +1,70 @@
+13 56
+1 2, the weight of the edge is 2
+1 7, the weight of the edge is 1
+1 13, the weight of the edge is 1
+2 1, the weight of the edge is 2
+2 4, the weight of the edge is 3
+2 5, the weight of the edge is 1
+2 7, the weight of the edge is 4
+2 8, the weight of the edge is 1
+2 9, the weight of the edge is 1
+3 8, the weight of the edge is 5
+3 9, the weight of the edge is 4
+3 10, the weight of the edge is 1
+3 12, the weight of the edge is 5
+3 13, the weight of the edge is 1
+4 2, the weight of the edge is 3
+4 6, the weight of the edge is 2
+4 8, the weight of the edge is 2
+5 2, the weight of the edge is 1
+5 7, the weight of the edge is 5
+5 10, the weight of the edge is 5
+5 12, the weight of the edge is 5
+6 4, the weight of the edge is 2
+6 11, the weight of the edge is 5
+6 12, the weight of the edge is 1
+7 1, the weight of the edge is 1
+7 2, the weight of the edge is 4
+7 5, the weight of the edge is 5
+7 10, the weight of the edge is 2
+7 11, the weight of the edge is 2
+7 12, the weight of the edge is 5
+8 2, the weight of the edge is 1
+8 3, the weight of the edge is 5
+8 4, the weight of the edge is 2
+8 10, the weight of the edge is 3
+9 2, the weight of the edge is 1
+9 3, the weight of the edge is 4
+9 12, the weight of the edge is 1
+10 3, the weight of the edge is 1
+10 5, the weight of the edge is 5
+10 7, the weight of the edge is 2
+10 8, the weight of the edge is 3
+10 13, the weight of the edge is 3
+11 6, the weight of the edge is 5
+11 7, the weight of the edge is 2
+11 13, the weight of the edge is 3
+12 3, the weight of the edge is 5
+12 5, the weight of the edge is 5
+12 6, the weight of the edge is 1
+12 7, the weight of the edge is 5
+12 9, the weight of the edge is 1
+12 13, the weight of the edge is 3
+13 1, the weight of the edge is 1
+13 3, the weight of the edge is 1
+13 10, the weight of the edge is 3
+13 11, the weight of the edge is 3
+13 12, the weight of the edge is 3
+1, weight is 3
+2, weight is 3
+3, weight is 3
+4, weight is 9
+5, weight is 20
+6, weight is 17
+7, weight is 14
+8, weight is 17
+9, weight is 6
+10, weight is 5
+11, weight is 8
+12, weight is 12
+13, weight is 6

@@ -1,0 +1,53 @@
+18 36
+1 2 weight of the edge is 2
+1 18 weight of the edge is 6
+2 3 weight of the edge is 4
+2 17 weight of the edge is 1
+3 4 weight of the edge is 4
+3 16 weight of the edge is 6
+4 5 weight of the edge is 4
+4 15 weight of the edge is 7
+5 6 weight of the edge is 4
+5 14 weight of the edge is 5
+6 7 weight of the edge is 2
+6 13 weight of the edge is 3
+7 8 weight of the edge is 3
+7 12 weight of the edge is 6
+8 9 weight of the edge is 7
+8 11 weight of the edge is 1
+9 10 weight of the edge is 3
+10 9 weight of the edge is 1
+10 11 weight of the edge is 6
+11 8 weight of the edge is 2
+11 12 weight of the edge is 1
+12 7 weight of the edge is 6
+12 13 weight of the edge is 4
+13 6 weight of the edge is 6
+13 14 weight of the edge is 2
+14 5 weight of the edge is 3
+14 15 weight of the edge is 3
+15 4 weight of the edge is 5
+15 16 weight of the edge is 6
+16 3 weight of the edge is 4
+16 17 weight of the edge is 6
+17 2 weight of the edge is 3
+17 18 weight of the edge is 3
+18 1 weight of the edge is 6
+1 weight is 7
+2 weight is 3
+3 weight is 7
+4 weight is 7
+5 weight is 3
+6 weight is 6
+7 weight is 7
+8 weight is 2
+9 weight is 2
+10 weight is 5
+11 weight is 1
+12 weight is 4
+13 weight is 7
+14 weight is 6
+15 weight is 4
+16 weight is 6
+17 weight is 1
+18 weight is 4
